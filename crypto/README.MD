@@ -1,2 +1,1 @@
-# Códigos utilizados com cryptomoedas
-# de acesso a Api
+# Exemplos de Códigos utilizados com cryptomoedas de acesso a Api via python
